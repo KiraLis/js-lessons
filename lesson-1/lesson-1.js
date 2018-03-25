@@ -1,0 +1,3 @@
+function representPerson(personInfo) {
+    // some your code here...
+}
